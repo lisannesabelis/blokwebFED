@@ -69,11 +69,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** -Blauw-
+**Je startniveau:** Blauw
 
-**Je focus:** -Responsive-
+**Je focus:** Responsive
 
-**Je opdracht:** -https://www.little-mix.com/-
+**Je opdracht:** https://www.nrc.nl/
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
