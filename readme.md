@@ -73,12 +73,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** Responsive
 
-**Je opdracht:** https://www.nrc.nl/
+**Je opdracht:** https://notebooktherapy.com/
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/Screenshot_homepage_NRC.png" width="375px" alt="Homepage_NRC">
+<img src="images/Screenshot_home.png" width="375px" alt="Homepage_NRC">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/Screenshot_binnenland_NRC.png" width="375px" alt="Nieuws_Binnenland_NRC">
+<img src="images/Screenshot_etui.png" width="375px" alt="Nieuws_Binnenland_NRC">
