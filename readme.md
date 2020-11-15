@@ -64,9 +64,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
 Breakoutschets Homepage:
-<img src="images/Breakoutschets_FED_deel1.svg" width="375px" alt="breakoutschets_homepage">
+<img src="images/Breakdownschets/Breakoutschets_FED_deel1.jpg" width="375px" alt="breakoutschets_homepage">
 
-<img src="images/Breakoutschets_FED_deel2.svg" width="375px" alt="breakoutschets_homepage">
+<img src="images/Breakdownschets/Breakoutschets_FED_deel2.jpg" width="375px" alt="breakoutschets_homepage">
 
 
 ## Intake (week 1)
