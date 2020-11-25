@@ -1,132 +1,122 @@
 /* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;  
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
 }
 
 /* Generic styling */
-* {
+* {}
+
+html {
+    font: 100% / 250% "Helvetica";
+}
+
+body {
+    background-color: rgba(255, 255, 255, 1);
+    font-family: Poppins, "Arial", "sans-serif";
+    font-size: 0.8125em;
+    line-height: 1.3125em;
+    color: rgba(35, 35, 35, 1);
+}
+
+h1 {}
+
+h2 {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.title {
 
 }
-html {
-  font: 100% / 250% "Helvetica";
+
+section {
 }
-body {
-  font-size:1.25em;
+
+.itemscontainer {
+    display: flex;
+    min-width: 100%;
+    flex-wrap: wrap;
+
 }
-h1 {
-    
+
+article img {
+    max-width: 100%;
 }
-h2 {
-  
+
+article h4 p{
+    font-size: 13px;
+    font-weight: 200;
 }
-p {
-  
-}
-ul {
-  
-}
-li {
-  
-} 
-a {
-  
-}
-a:link {
-  
-}
-a:visited {
-  
-}
-a:hover, a:focus {
-  
-}
-a:active {
-  
-}
-button {
-  
-}
+
+p {}
+
+ul {}
+
+li {}
+
+a {}
+
+a:link {}
+
+a:visited {}
+
+a:hover,
+a:focus {}
+
+a:active {}
+
+button {}
 
 /* form styling */
-form {
-  
-}
-  fieldset {
+form {}
 
-  }
-    legend {
+fieldset {}
 
-    }
-    label {
+legend {}
 
-    }
-    input {
+label {}
 
-    }
-    input:invalid {
+input {}
 
-    }
+input:invalid {}
 
 /* Section styling */
-header {
-  
-}
-  header h1 {
+header {}
 
-  }
+header h1 {}
 
-main {
+main {}
 
-}
-  main button {
+main button {}
 
-  }
-section {
-  
-}
-  section header {
+section {}
 
-  }
-  section h2 {
+section header {}
 
-  }
-article {
-  
-}
-  article header {
+section h2 {}
 
-  }
-  article h3 {
 
-  }
-  article footer {
-  
-  }
+article header {}
 
-aside {
-  
-}
+article h3 {}
 
-footer {
-  
-}
+article footer {}
+
+aside {}
+
+footer {}
 
 /* Component styling */
-section#some-ultra-cool-component {
-  
-}
+section#some-ultra-cool-component {}
 
 
 /* Breakpoints */
-@media all and (min-width: 30em) {
-  
-}
+@media all and (min-width: 30em) {}
 
-@media all and (min-width: 60em) {
-  
-}
+@media all and (min-width: 60em) {}
 
-@media all and (min-width: 90em) {
-  
-} 
+@media all and (min-width: 90em) {}
+
 */
