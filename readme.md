@@ -7,7 +7,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. NotebookTherapy. (2020, 13 november). NotebookTherapy - Japanese + Korean Stationery Shipped Free Worldwide. https://notebooktherapy.com/
-2. -bron 2-
+2. https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0
 3. -...-
 
 
@@ -41,29 +41,23 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 dit ging goed & dit was lastig:
 Wat goed ging was het linken naar een font in de html.
 Verder had ik moeite met een hamburger menu maken voor de mobiele site en had ik moeite met flexbox.
-Het gaat daar nu wel wat beter mee.
+Het is me ook niet gelukt om de mobilesite responsive te maken.
 
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent met korte uitleg-
-Dit is wat ik op dit moment heb voor de navigatie.
-<img src="images/screenschots_voortgang_1/html_nav.png" width="375px" alt="html_nav">
-<img src="images/screenschots_voortgang_1/css_nav.png" width="375px" alt="html_css">
-<img src="images/screenschots_voortgang_1/website_nav.png" width="375px" alt="website_menu">
+<img src="images/screenschots_voortgang_1/home.png" width="375px" alt="homepage">
 
-Dit is wat ik op dit moment heb voor de section trending.
-<img src="images/screenschots_voortgang_1/html_trending.png" width="375px" alt="html_trending">
-<img src="images/screenschots_voortgang_1/css_trending.png" width="375px" alt="css_trending">
-<img src="images/screenschots_voortgang_1/website_trending.png" width="375px" alt="website_trending">
+<img src="images/screenschots_voortgang_1/nav.png" width="375px" alt="nav">
 
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
 
 | Nino           | Quincy             | Sam          | Lisanne          |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    |                  |
-| an dat ook nog | dit als er tijd is | nog een punt |                  |
+| ---            | ---                | ---          | Hoe krijg ik de  |
+| dit bespreken  | en dit             | en ik dit    | foutmelding in js|
+| an dat ook nog | dit als er tijd is | nog een punt | weg.             |
 
 
 ### Verslag van meeting
