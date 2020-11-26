@@ -64,9 +64,34 @@ h4 + p {
 
 p {}
 
-ul {}
+nav {
+    overflow: hidden;
+    position: relative;
 
-li {}
+}
+
+
+ul {
+    display: none;
+    margin: 0;
+    padding: 13px 20px 11px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+
+li {
+    display: block;
+    max-width: 25em;
+    margin: 0;
+    padding: 0.7em 1.25em 0.7em;
+    font-size: 1em;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(247, 247, 247, 1);
+    list-style-type: none;
+}
+
 
 a {}
 
@@ -95,7 +120,10 @@ input {}
 input:invalid {}
 
 /* Section styling */
-header {}
+header {
+    background-color: rgba(255, 255, 255, 1);
+    
+}
 
 header h1 {}
 

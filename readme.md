@@ -38,21 +38,33 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+dit ging goed & dit was lastig:
+Wat goed ging was het linken naar een font in de html.
+Verder had ik moeite met een hamburger menu maken voor de mobiele site en had ik moeite met flexbox.
+Het gaat daar nu wel wat beter mee.
 
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent met korte uitleg-
+Dit is wat ik op dit moment heb voor de navigatie.
+<img src="images/screenschots_voortgang_1/html_nav.png" width="375px" alt="html_nav">
+<img src="images/screenschots_voortgang_1/css_nav.png" width="375px" alt="html_css">
+<img src="images/screenschots_voortgang_1/website_nav.png" width="375px" alt="website_menu">
+
+Dit is wat ik op dit moment heb voor de section trending.
+<img src="images/screenschots_voortgang_1/html_trending.png" width="375px" alt="html_trending">
+<img src="images/screenschots_voortgang_1/css_trending.png" width="375px" alt="css_trending">
+<img src="images/screenschots_voortgang_1/website_trending.png" width="375px" alt="website_trending">
 
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
+| Nino           | Quincy             | Sam          | Lisanne          |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| dit bespreken  | en dit             | en ik dit    |                  |
+| an dat ook nog | dit als er tijd is | nog een punt |                  |
+
 
 ### Verslag van meeting
 
