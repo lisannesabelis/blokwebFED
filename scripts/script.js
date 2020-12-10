@@ -3,11 +3,11 @@
 /*eslint 'no-console':0*/
 
 var navmenu = document.querySelector("nav");
-var ham = document.querySelector("nav button");
+var hamburger = document.querySelector(".hamburger");
 
 function toggleHamburgermenu() {
     navmenu.classList.toggle("showNavigation");
-    ham.classList.toggle("closeNavigation");
+    hamburger.classList.toggle("closeNavigation");
 }
 
-ham.addEventListener("click", toggleHamburgermenu);
+hamburger.addEventListener("click", toggleHamburgermenu);
