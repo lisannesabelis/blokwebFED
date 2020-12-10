@@ -52,18 +52,14 @@ Het is me ook niet gelukt om de mobilesite responsive te maken.
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
-
-| Nino           | Quincy             | Sam          | Lisanne          |
-| ---            | ---                | ---          | Hoe krijg ik de  |
-| dit bespreken  | en dit             | en ik dit    | foutmelding in js|
-| an dat ook nog | dit als er tijd is | nog een punt | weg.             |
-
+Nino: Geen vragen.
+Quincy: Mijn navigatie flexbox (hoe ik deze gefixt/niet lelijk krijg), Groottes van mijn content (en waarom sommige raar doen met het beeld), geleidelijk vervagen van achtergrond, overlapping issues, Border color > gradient (waar werkt dit niet bij mij?), Vormen uit niets maken (of is het beter om een image te plakken?), Slider voor mijn pagina (hoe zal ik dat aanpakken?), Positionering zonder padding/margin misbruik (wat ik steeds heb gedaan).
+Sam: Geen vragen.
+Lisanne: Hoe krijg ik een foutmelding in js weg?
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
-
+De studentassistent had niet veel te zeggen, behalve dat ik alle html in de site moest zetten. Verder moest ik gewoon verder werken.
 
 
 ## Breakdownschets (week 1)
