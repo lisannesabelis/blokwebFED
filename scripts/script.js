@@ -1,10 +1,13 @@
-// JavaScript Document
-var navbar = document.querySelector(".navbar");
-var ham = document.querySelector(".ham");
+/*jslint browser: true, devel: true, eqeq: true, plusplus: true, sloppy: true, vars: true, white: true*/
+/*eslint-env browser*/
+/*eslint 'no-console':0*/
 
-function toggleHamburger() {
-    navbar.classList.toggle("showNav");
-    ham.classList.toggle("closeHam");
+var navmenu = document.querySelector("nav");
+var ham = document.querySelector("nav button");
+
+function toggleHamburgermenu() {
+    navmenu.classList.toggle("showNavigation");
+    ham.classList.toggle("closeNavigation");
 }
 
-ham.addEventListener("click", toggleHamburger);
+ham.addEventListener("click", toggleHamburgermenu);
