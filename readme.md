@@ -7,8 +7,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. NotebookTherapy. (2020, 13 november). NotebookTherapy - Japanese + Korean Stationery Shipped Free Worldwide. https://notebooktherapy.com/
-2. https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0
-3. -...-
+2. https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0   (voor het hamburgermenu in de header)
+3. https://www.cssscript.com/responsive-vertical-image-slider-pure-css/  (voor de detailpagina photodisplay)
 
 
 
