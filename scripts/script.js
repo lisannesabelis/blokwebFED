@@ -2,12 +2,12 @@
 /*eslint-env browser*/
 /*eslint 'no-console':0*/
 
-var navmenu = document.querySelector("nav");
+var navmenu = document.querySelector(".menucontent");
 var hamburger = document.querySelector(".hamburger");
 
 function toggleHamburgermenu() {
-    navmenu.classList.toggle("showNavigation");
-    hamburger.classList.toggle("closeNavigation");
+    navmenu.classList.toggle("showMenu");
+    hamburger.classList.toggle("closeMenu");
 }
 
 hamburger.addEventListener("click", toggleHamburgermenu);

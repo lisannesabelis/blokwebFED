@@ -8,7 +8,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Bronnenlijst
 1. NotebookTherapy. (2020, 13 november). NotebookTherapy - Japanese + Korean Stationery Shipped Free Worldwide. https://notebooktherapy.com/
 2. https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0   (voor het hamburgermenu in de header)
-3. https://www.cssscript.com/responsive-vertical-image-slider-pure-css/  (voor de detailpagina photodisplay)
 
 
 
@@ -24,15 +23,25 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+dit ging goed & dit was lastig:
+Dit ging goed:
+Ik ben begonnen met de detailpagina. Verder heb ik een form gemaakt.
+Dit was lastig:
+Ik probeerde om de site responsive te maken en dat is niet gelukt.
 
-
+Screenshot: (De homepage is nog hetzelfde als de vorige keer.)
+<img src="images/screenshot_voortgang_3/Notebook%20Therapy%20(1).png" width="375px" alt="detailpage">
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+dit ging goed & dit was lastig:
+wat goed ging:
+Ik ben verder gegaan en ben begonnen met het maken van de slider.
+Wat lastig was:
+De slider maken was lastig.
 
-
+Screenshot: (Ik ben niet begonnen aan de detailpagina.)
+<img src="images/screenshot_voortgang_2/Notebook%20Therapy.png" width="375px" alt="homepage2">
 
 ## Voortgang 1 (week 3)
 
