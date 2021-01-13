@@ -23,10 +23,11 @@ Js vind ik lastig
 **Screenshot(s):**
 
 Home page:
-
-
+Desktop: <img src="images/einde/Notebook%20Therapy%20home%20desktop.png" width="375px" alt="home_desktop">
+Mobile: <img src="images/einde/Notebook%20Therapy%20home%20mobile.png" width="375px" alt="home_mobile">
 Detailpage:
-
+Desktop: <img src="images/einde/Notebook%20Therapy%20detail%20desktop.png" width="375px" alt="detailpage_desktop">
+Mobile: <img src="images/einde/Notebook%20Therapy%20detail%20mobile.png" width="375px" alt="detailpage_mobile">
 
 
 
