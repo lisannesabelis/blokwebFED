@@ -8,16 +8,25 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Bronnenlijst
 1. NotebookTherapy. (2020, 13 november). NotebookTherapy - Japanese + Korean Stationery Shipped Free Worldwide. https://notebooktherapy.com/
 2. https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0   (voor het hamburgermenu in de header)
+3.https://css-tricks.com/how-to-make-an-unobtrusive-scroll-to-top-button/ (voor de back to top knop)
 
 
 
 ## Eindgesprek (week 7/8)
 
 -dit ging goed & dit was lastig-
+Wat goed ging:
+Ik heb beide pagina's af. Heb sommige kleine onderdelen alleen niet. De website is ook responsive.
+Wat lastig is:
+Js vind ik lastig
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+Home page:
+
+
+Detailpage:
+
 
 
 
